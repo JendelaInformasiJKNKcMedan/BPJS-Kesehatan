@@ -72,8 +72,8 @@ window.SITE_CONTENT = {
       "icon": "👩‍💼"
     },
     {
-      "name": "MuhammadHadi Arkan",
-      "role": "Petugas Telekolekting Kc Medan ",
+      "name": "Muhammad Hadi Arkan",
+      "role": "iuran BPJS Kesehatan",
       "category": "Informasi & Konsultasi",
       "description": "Melayani Informasi pembayaran Iuran",
       "phone": "+6282339940893",
@@ -81,7 +81,7 @@ window.SITE_CONTENT = {
     },
     {
       "name": "Zuliantika",
-      "role": "Petugas Telekolekting Kc Medan ",
+      "role": "iuran BPJS Kesehatan",
       "category": "Informasi & Konsultasi",
       "description": "Melayani Informasi pembayaran Iuran",
       "phone": "+6285265641887",
